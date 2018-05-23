@@ -1,0 +1,18 @@
+{
+  "name": "bt9",
+  "version": "1.0.0",
+  "description": "bt9 -by boat- web and Array link Numpy => btNUm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node bt9.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boatio/bt9/tree/master"
+  },
+  "keywords": [
+    "bt9"
+  ],
+  "author": "boatonboaton <usbjewon@gmail.com>",
+  "license": "MIT"
+}
